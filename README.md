@@ -10,9 +10,9 @@ This is how it works:
 
 ![alt text](https://github.com/AdiChat/Freelance/blob/master/data/Promo.jpg "OpenGenus Freelance")
 
-* Join us at OpenGenus by opening an issue [here]()
+* Join us at OpenGenus by opening an issue [here](https://github.com/OpenGenus/Join_OpenGenus)
 * You will be welcomed to our community in a day. 
-* Once you join, head over to OpenGenus/Freelance and create an issue [here](). Tell us your vision and what you want to do. 
+* Once you join, create an issue or get in touch at **Slack**. Tell us your vision and what you want to do. 
 * We will direct you to **free** resources on the web to attain essential skills to make your vision a reality. We will, also, guide you through the entire course. We will try to keep this period short as much as a month. 
  
  > Yes, we will arrange your access to great resources.
